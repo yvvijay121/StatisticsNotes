@@ -1,5 +1,6 @@
-# $\chi^2$ Test for Goodness-Of-Fit
-
+---
+title: Chi-Squared Test for Goodness-Of-Fit
+---
 The $\chi^2$ test for goodness-of-fit is a tes tthat compares the *counts* of an observed distribution of a single *categorical variable* to the expected distribution.
 
 ![[Unit 8 - Inference for Categorical Data for Chi-Square#Performing The Test]]

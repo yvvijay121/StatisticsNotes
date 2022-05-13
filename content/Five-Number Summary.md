@@ -1,4 +1,6 @@
-# Five-Number Summary
+---
+title: Five-Number Summary
+---
 The five-number summary of a dataset consists of the following:
 - minimum value
 - first/lower quartile ($Q_1$)

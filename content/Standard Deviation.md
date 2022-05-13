@@ -1,4 +1,6 @@
-# Standard Deviation
+---
+title: Standard Deviation
+---
 The *standard deviation* is defined as the typical difference between a value in the distribution and the average for the distribution. ^5e9145
 
 Mathematically, the standard deviation is defined as the square root of the *variance* of the distribution, which is defined as the average squared deviation from the mean of the distribution. A deviation is the distance that a data value is from the mean. ^da115c

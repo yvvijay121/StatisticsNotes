@@ -1,4 +1,6 @@
-# Measures of Center
+---
+title: Measures of Center for Quantitative Distributions
+---
 There are two primary measures of center, *mean* and *median*. *Mode*, which is the most commonly occurring value in the distribution, may be seen. Don't use mode.
 
 ## Mean

@@ -1,4 +1,6 @@
-# Quantitative data
+---
+title: Quantitative Data
+---
 *Quantitative data*, or *numerical data* are measures or counts.
 
 ## Discrete and Continuous Variables

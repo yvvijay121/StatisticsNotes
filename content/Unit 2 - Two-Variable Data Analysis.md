@@ -1,4 +1,6 @@
-# Unit 2 - Two-Variable Data Analysis
+---
+title: Unit 2 - Two-Variable Data Analysis
+---
 Two-variable (or *bivariate*) [[Quantitative Data|quantitative data]] is data where we compare two different variables, and whether there is a [[Correlation|correlation]] between the two variables.
 
 The *explanatory variable* (or the *independent variable*) is the variable in the bivariate distribution that we are assuming is the variable that *affects* the other variable. The *response variable* (or the *dependent variable*) is the variable in the bivariate distribution that we are assuming is the variable that is *affected by* the other variable. ^671cf7

@@ -1,4 +1,6 @@
-# Normal Distribution Calculator Functions
+---
+title: Normal Distribution Calculator Functions
+---
 ## Normal Cumulative Distribution Function
 The normal cumulative distribution function (normCdf) can find the proportion of the area under the normal curve that lies between two values in the normal distribution.
 

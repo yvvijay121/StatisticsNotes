@@ -1,5 +1,7 @@
-# Spread of Distribution
-There are multiple values that can represent the spread of the distribution
+---
+title: Measures of Spread for Quantitative Distributions
+---
+There are multiple values that can represent the spread of the distribution.
 
 ## Variance and [[Standard Deviation]]
 ![[Standard Deviation#^5e9145]]

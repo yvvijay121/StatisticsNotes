@@ -1,4 +1,6 @@
-# Z-Scores
+---
+title: Z-Scores
+---
 The *$z$-score* is simply a measure of how many standard deviations away a certain value in a distribution is from the mean. ^1db326
 
 $$z_{x_i}=\frac{x_i-\bar{x}}{s}$$

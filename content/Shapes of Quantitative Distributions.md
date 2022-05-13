@@ -1,4 +1,6 @@
-# Shape of Distribution
+---
+title: Shapes of Quantitative Distributions
+---
 Describing the shape of a quantitative distribution consists of two parts:
 - Skew
 - Modality

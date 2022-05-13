@@ -1,4 +1,6 @@
-# Unusual Features of a Quantitative Distribution
+---
+title: Unusual Features of a Quantitative Distribution
+---
 Distributions can have many unusual features, which can affect descriptions and generalizations of the distributions.
 
 ## Outliers

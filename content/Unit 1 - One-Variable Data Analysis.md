@@ -1,4 +1,6 @@
-# Unit 1: One-Variable Data Analysis
+---
+title: Unit 1 - One-Variable Data Analysis
+---
 ## Parameters & Statistics
 Values that describe a sample are called *statistics*, and values that describe a population are called *parameters*.
 

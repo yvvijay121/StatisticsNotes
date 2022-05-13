@@ -1,4 +1,6 @@
-# Unit 8: Inference for Categorical Data: Chi-Square Models
+---
+title: Unit 8 - Inference for Categorical Data for Chi-Square
+---
 ## $\chi^2$ Models
 $\chi^2$ models are used to compare counts of categorical data when comparing the observed distribution(s) to the expected distribution(s) of data.
 

@@ -1,4 +1,6 @@
-# $\chi^2$ Test for Independence
+---
+title: Chi-Squared Test for Independence
+---
 A test of independence examines the association between two variables in a single population.
 
 ## Hypotheses

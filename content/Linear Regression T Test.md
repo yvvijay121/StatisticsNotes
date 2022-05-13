@@ -1,5 +1,6 @@
-# Linear Regression $t$ Test
-
+---
+title: Linear Regression T-Test
+---
 *Linear regression $t$ tests* are used to quantify the relationship between a
 predictor variable and a response variable.
 

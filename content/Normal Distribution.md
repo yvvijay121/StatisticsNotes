@@ -1,4 +1,6 @@
-# Normal Distribution
+---
+title: Normal Distribution
+---
 > For important calculator functions, see [[Normal Distribution Calculator Functions]].
 
 ![[Pasted image 20220417195234.png]]
