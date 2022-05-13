@@ -1,27 +1,25 @@
 ---
-title: 🪴 Quartz 3.2
+title: AP Statistics Review Material
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Welcome! These are a collection of review notes for the AP Statistics course, which you're probably taking right now. I hope this helps!
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+These notes are currently structured by units defined by the AP Statistics curriculum that Collegeboard provides, which are split up into:
+1. [[Unit 1 - One-Variable Data Analysis]]
+2. [[Unit 2 - Two-Variable Data Analysis]] (partially completed)
+3. [[Unit 3 - Collecting Data]] (not done yet)
+4. [[Unit 4 - Probability, Random Variables, and Probability Distributions]] (not done yet)
+5. [[Unit 5 - Sampling Distributions]] (not done yet)
+6. [[Unit 6 - Inference for Categorical Data for Proportions]] (not done yet)
+7. [[Unit 7 - Inference for Quantitative Data for Means]] (not done yet)
+8. [[Unit 8 - Inference for Categorical Data for Chi-Square]]
+9. [[Unit 9 - Inference for Quantitative Data for Slopes]] (not done yet)
+10. Extra Content? (coming soon)
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+A few bits of information about the website before you go:
+- This website is designed to be interactive, so go ahead! Click around on links to review concepts that you haven't learned yet, and have fun reviewing!
+- You can search the full text of this website by pressing `Ctrl` + `k`.
+- This website is currently *far* from complete, and there are quite a few missing ends. If you have any issues, feel free to contact me.
+- Most importantly, put your studying schedule first. If you're feeling tired, or you're cramming before a test (or the big test), take some time to de-stress every now and then.
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
