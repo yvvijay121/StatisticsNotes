@@ -3,9 +3,9 @@ title: Normal Distribution
 ---
 > For important calculator functions, see [[Normal Distribution Calculator Functions]].
 
-![[Pasted image 20220417195234.png]]
+![[Normal Distribution Model.png]]
 
-The *normal distribution* is a type of [[Quantitative Data#^a7c31b|continuous]] probability distribution for a random variable. The normal distribution is usually used as an idealization of many distributions of random variables.
+The *normal distribution* is a type of [[Quantitative Data|continuous]] probability distribution for a random variable. The normal distribution is usually used as an idealization of many distributions of random variables.
 
 The normal distribution is symmetrical and unimodal, centered at the mean of the sample, as seen above.
 

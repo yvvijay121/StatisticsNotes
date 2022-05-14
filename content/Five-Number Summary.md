@@ -15,4 +15,4 @@ The medians of the upper and lower halves of the distribution, not including the
 
 The median of the lower half is called the *lower quartile*, or the *first quartile*. The median of the upper half is called the *upper quartile*, or the *third quartile*.
 
-The *interquartile range* (IQR) is the difference between the third quartile and the first quartile. ^0d6775
+The *interquartile range* (IQR) is the difference between the third quartile and the first quartile.

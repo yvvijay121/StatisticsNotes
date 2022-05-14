@@ -29,7 +29,7 @@ A further distinction can be made between discrete and continuous variables; see
 - Timeplot: A timeplot of a variable plots each observation against the time at which it was measured.
 	- Time should always be placed on the horizontal axis.
 
-![[Quantitative Data#Describing a Quantitative Distribution]]
+The features that we normally mention when describing a quantitative distribution are [[Shapes of Quantitative Distributions|shape]], [[Measures of Center for Quantitative Distributions|center]], [[Measures of Spread for Quantitative Distributions|spread]], and [[Unusual Features of a Quantitative Distribution|unusual features]]. Make sure to mention these whenever you're describing a distribution of one-variable data.
 
 ## Ogives (Cumulative Frequency Graph Definition)
 An *ogive* is a graph where the $p^{th}$ percentile of a distribution is the value such that $p$ percent of the observations fall at or below it.
@@ -38,4 +38,4 @@ An *ogive* is a graph where the $p^{th}$ percentile of a distribution is the val
 The *percentile rank* of a term is the proportion of terms in the distribution that are less than or equal to that term.
 
 ## [[Z-Scores]]
-![[Z-Scores#^1db326]]
+The $z$-score is simply a measure of how many standard deviations away a certain value in a distribution is from the mean.

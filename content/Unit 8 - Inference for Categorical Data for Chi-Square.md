@@ -29,7 +29,7 @@ Other important facts about the $\chi^2$ *statistic*:
 - If the observed counts don’t match the expected, the statistic will be large.
 - The $\chi^2$ test statistic is always positive.
 
-![[Pasted image 20220418233116.png]]
+![[Chi-Squared Table.png]]
 
 ### Types of $\chi^2$ Tests
 - #### [[Chi-Squared Test for Goodness-Of-Fit]]
@@ -37,4 +37,5 @@ Other important facts about the $\chi^2$ *statistic*:
 - #### [[Chi-Squared Test for Independence]]
 
 ## [[Linear Regression T Test|Linear Regression Tests]]
-![[Linear Models#^efc473]]
+*Linear regression $t$ tests* are used to quantify the relationship between a
+predictor variable and a response variable.

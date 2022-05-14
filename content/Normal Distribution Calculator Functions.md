@@ -10,4 +10,5 @@ Simply plug in the lower and upper bounds, the mean, and the standard deviation 
 The inverse normal function (invNorm) is the opposite of the normal cumulative distribution function.
 
 Plug in the area, the mean, and the standard deviation to get the value that bounds the area specified.
-![[Pasted image 20220417200944.png]]
+
+![[normalCDF Model.png]]
