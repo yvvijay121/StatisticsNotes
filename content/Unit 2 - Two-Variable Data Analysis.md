@@ -22,5 +22,14 @@ A *residual* is a value that simply describes the difference between the value o
 A *coefficient of determination* is the proportion of the variability in the dependent variable that is predictable from the independent variable. Usually notated as $R^2$.
 > Start the "interpretation" sentence out with the %.
 
+## Outliers and Influential Observations
+> [!INFO]
+> Still needs to be completed.
+
+## Transformations of Data
+> [!INFO]
+> Still needs to be completed.
+
+Sometimes, if we see an apparent non-linear association in our bivarate data, we may choose to transform the data to fit a linear model.
 - outliers and influential observations
 - transformations to achieve linearity
